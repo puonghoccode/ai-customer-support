@@ -34,3 +34,12 @@ AI-Assisted Customer Feedback and Support Management System
 - Bruno
 - DBeaver
 - Git / GitHub
+
+
+
+
+
+### Start project
+- cd D:\ai-customer-support
+- Run PostgreSQL: docker compose up -d
+
